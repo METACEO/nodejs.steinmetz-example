@@ -1,0 +1,24 @@
+{
+  "name": "nodejs.steinmetz-example",
+  "version": "1.0.0",
+  "description": "A simple Steinmetz example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/METACEO/nodejs.steinmetz-example.git"
+  },
+  "author": "James Allen <james.allen@meta.ceo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/METACEO/nodejs.steinmetz-example/issues"
+  },
+  "homepage": "https://github.com/METACEO/nodejs.steinmetz-example#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "steinmetz": "^0.1.4"
+  }
+}

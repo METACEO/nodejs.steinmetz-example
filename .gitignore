@@ -1,0 +1,8 @@
+# WebStorm configuration files.
+.idea
+
+# All of the install node.js modules.
+node_modules
+
+# Ignore any generated tiles.
+public/tiles/*.png
