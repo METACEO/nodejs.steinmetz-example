@@ -5,4 +5,5 @@
 node_modules
 
 # Ignore any generated tiles.
-public/tiles/*.png
+public/tiles/*
+!public/tiles/.gitignore
